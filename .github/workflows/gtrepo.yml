@@ -20,7 +20,7 @@ jobs:
     - name: Git checkout
       uses: actions/checkout@v2
 
-     # Instalations Styles
+    # Installation Styles
       
     - name: install anaylse xsl-styles
       run: | 
@@ -28,7 +28,11 @@ jobs:
         mv gt-repo-scripts/scripts scripts/
         rm -r gt-repo-scripts
 
+    # Installation GT-Labelling Documentation
 
+    - name: install labeling
+      run: |
+        git clone https://github.com/tboenig/gt-guidelines.git
 
      
     # Installation and Directories
@@ -110,7 +114,14 @@ jobs:
         java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl \
         output=METSvolume repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER \
         -s:scripts/gt-overview_metadata.xsl -o:ocrdzip_out/mets.xml
-      shell: bash  
+      shell: bash
+      
+    - name: delete fileGrp DEFAULT
+      run: |
+        sudo java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_metadata.xsl \
+        output=METSdefault repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER \
+        -s:scripts/gt-overview_metadata.xsl
+      shell: bash
   
     - name: Index-link
       run: |
@@ -175,14 +186,3 @@ jobs:
       with:
           branch: gh-pages # The branch the action should deploy to.
           folder: ghout  # The folder the action should deploy.           
-   
-   
-   
-   
-   
-   
-   
-   
-          
-          
-  
