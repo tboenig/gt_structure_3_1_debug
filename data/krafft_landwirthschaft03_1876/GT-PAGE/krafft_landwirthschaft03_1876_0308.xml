@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:17:48</Created>
+	<LastChange>2019-03-05T12:06:47</LastChange></Metadata>
+	<Page imageFilename="krafft_landwirthschaft03_1876_0308.jpg" imageWidth="1967" imageHeight="2880" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_1">
+	<Coords points="476,380 1878,380 1878,1022 476,1022"/></TableRegion>
+	<TextRegion id="region_2" custom="#heading_level2" type="heading">
+	<Coords points="966,1640 1395,1640 1395,1785 966,1785"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#heading_level3" type="heading">
+	<Coords points="923,1790 1495,1790 1495,1972 923,1972"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="footnote">
+	<Coords points="466,2236 1908,2236 1908,2545 466,2545"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1896,2192 1896,1975 503,1975 503,2192"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="746,2246 746,2210 496,2210 496,2246"/></SeparatorRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1885,1507 1885,1046 475,1046 475,1507"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="page-number">
+	<Coords points="575,353 575,289 467,289 467,353"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="header">
+	<Coords points="1260,342 1260,278 1089,278 1089,342"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

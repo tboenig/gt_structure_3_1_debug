@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:16:16</Created>
+	<LastChange>2019-03-12T14:53:58</LastChange></Metadata>
+	<Page imageFilename="immermann_muenchhausen04_1839_0079.jpg" imageWidth="1629" imageHeight="2188" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level2" type="heading">
+	<Coords points="132,600 987,600 987,888 132,888"/>
+	<SeparatorRegion id="r3">
+	<Coords points="432,708 432,748 675,748 675,708"/></SeparatorRegion>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="signature-mark">
+	<Coords points="741,1827 846,1827 846,1893 741,1893"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="586,372 586,335 518,335 518,372"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="651,921 651,889 481,889 481,921"/></SeparatorRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="983,940 983,1469 771,1469 771,1470 348,1470 348,1471 137,1471 137,940"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="983,1471 983,1829 137,1829 137,1473 349,1473 349,1472 772,1472 772,1471"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

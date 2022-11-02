@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:17:05</Created>
+	<LastChange>2019-03-12T14:50:42</LastChange></Metadata>
+	<Page imageFilename="klein_geometrische_1872_0028.jpg" imageWidth="2025" imageHeight="2750" type="content">
+	<PrintSpace>
+	<Coords points="1980,2526 1980,223 486,223 486,2526"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level1" type="heading">
+	<Coords points="663,1010 1835,1010 1835,1162 663,1162"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="footnote-continued">
+	<Coords points="616,2306 1805,2306 1805,2425 616,2425"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1293,330 1293,293 1203,293 1203,330"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="663,360 663,950 1820,950 1820,360"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="876,2303 876,2276 643,2276 643,2303"/></SeparatorRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1813,1180 1813,1339 1731,1339 1731,1338 1566,1338 1566,1337 1400,1337 1400,1336 1235,1336 1235,1335 1070,1335 1070,1334 904,1334 904,1333 739,1333 739,1332 656,1332 656,1180"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="738,1334 738,1335 903,1335 903,1336 1069,1336 1069,1337 1234,1337 1234,1338 1399,1338 1399,1339 1565,1339 1565,1340 1730,1340 1730,1341 1813,1341 1813,2256 656,2256 656,1334"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

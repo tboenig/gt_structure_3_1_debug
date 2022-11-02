@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:16:36</Created>
+	<LastChange>2019-03-12T14:51:56</LastChange></Metadata>
+	<Page imageFilename="justi_velazquez01_1888_0149.jpg" imageWidth="2335" imageHeight="3127" type="content">
+	<PrintSpace>
+	<Coords points="1869,3015 1869,96 11,96 11,3015"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r6" index="3"/>
+	<RegionRefIndexed regionRef="region_4" index="4"/></OrderedGroup></ReadingOrder>
+	<GraphicRegion id="region_1">
+	<Coords points="266,833 1410,833 1410,2212 266,2212"/></GraphicRegion>
+	<TextRegion id="region_2" type="caption">
+	<Coords points="606,2223 1063,2223 1063,2285 606,2285"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="signature-mark">
+	<Coords points="1223,2740 1333,2740 1333,2819 1223,2819"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1534,400 1534,323 1423,323 1423,400"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="992,400 992,307 680,307 680,400"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1557,784 1557,419 150,419 150,784"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords points="1519,2293 1519,2441 1432,2441 1432,2442 1258,2442 1258,2443 1084,2443 1084,2444 911,2444 911,2445 737,2445 737,2446 564,2446 564,2447 390,2447 390,2448 216,2448 216,2449 130,2449 130,2293"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords points="1519,2443 1519,2732 130,2732 130,2451 217,2451 217,2450 391,2450 391,2449 565,2449 565,2448 738,2448 738,2447 912,2447 912,2446 1085,2446 1085,2445 1259,2445 1259,2444 1433,2444 1433,2443"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

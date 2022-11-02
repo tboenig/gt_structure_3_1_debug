@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:17:05</Created>
+	<LastChange>2019-03-12T14:49:27</LastChange></Metadata>
+	<Page imageFilename="klein_geometrische_1872_0055.jpg" imageWidth="2025" imageHeight="2749" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="r14" index="3"/>
+	<RegionRefIndexed regionRef="r18" index="4"/>
+	<RegionRefIndexed regionRef="r20" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level2" type="heading">
+	<Coords points="270,790 1322,790 1322,850 270,850"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<MathsRegion id="region_2">
+	<Coords points="660,1196 889,1196 889,1251 660,1251"/></MathsRegion>
+	<MathsRegion id="region_3">
+	<Coords points="320,2056 1175,2056 1175,2195 320,2195"/></MathsRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="813,343 813,300 733,300 733,343"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1380,786 1380,393 196,393 196,786"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="446,2213 446,2180 193,2180 193,2213"/></SeparatorRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1386,853 1386,1042 1340,1042 1340,1043 1248,1043 1248,1044 1156,1044 1156,1045 1064,1045 1064,1046 972,1046 972,1047 880,1047 880,1048 788,1048 788,1049 696,1049 696,1050 604,1050 604,1051 512,1051 512,1052 420,1052 420,1053 328,1053 328,1054 236,1054 236,1055 190,1055 190,853"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="1386,1044 1386,1193 190,1193 190,1057 237,1057 237,1056 329,1056 329,1055 421,1055 421,1054 513,1054 513,1053 605,1053 605,1052 697,1052 697,1051 789,1051 789,1050 881,1050 881,1049 973,1049 973,1048 1065,1048 1065,1047 1157,1047 1157,1046 1249,1046 1249,1045 1341,1045 1341,1044"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="1406,1250 1406,1449 1303,1449 1303,1450 1098,1450 1098,1451 893,1451 893,1452 688,1452 688,1453 483,1453 483,1454 278,1454 278,1455 176,1455 176,1250"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="1406,1451 1406,2043 176,2043 176,1457 279,1457 279,1456 484,1456 484,1455 689,1455 689,1454 894,1454 894,1453 1099,1453 1099,1452 1304,1452 1304,1451"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="footnote">
+	<Coords points="1385,2210 1385,2285 1326,2285 1326,2286 1209,2286 1209,2287 1092,2287 1092,2288 974,2288 974,2289 857,2289 857,2290 740,2290 740,2291 623,2291 623,2292 506,2292 506,2293 388,2293 388,2294 271,2294 271,2295 213,2295 213,2210"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="footnote">
+	<Coords points="1385,2287 1385,2355 1350,2355 1350,2356 1281,2356 1281,2357 1212,2357 1212,2358 1143,2358 1143,2359 1074,2359 1074,2360 1005,2360 1005,2361 936,2361 936,2362 867,2362 867,2363 799,2363 799,2364 730,2364 730,2365 661,2365 661,2366 592,2366 592,2367 523,2367 523,2368 454,2368 454,2369 385,2369 385,2370 316,2370 316,2371 247,2371 247,2372 213,2372 213,2297 272,2297 272,2296 389,2296 389,2295 507,2295 507,2294 624,2294 624,2293 741,2293 741,2292 858,2292 858,2291 975,2291 975,2290 1093,2290 1093,2289 1210,2289 1210,2288 1327,2288 1327,2287"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r20" type="footnote">
+	<Coords points="1385,2357 1385,2458 213,2458 213,2374 248,2374 248,2373 317,2373 317,2372 386,2372 386,2371 455,2371 455,2370 524,2370 524,2369 593,2369 593,2368 662,2368 662,2367 731,2367 731,2366 800,2366 800,2365 868,2365 868,2364 937,2364 937,2363 1006,2363 1006,2362 1075,2362 1075,2361 1144,2361 1144,2360 1213,2360 1213,2359 1282,2359 1282,2358 1351,2358 1351,2357"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:16:46</Created>
+	<LastChange>2019-03-05T11:43:47</LastChange></Metadata>
+	<Page imageFilename="karsch_gedichte_1792_0007.jpg" imageWidth="1646" imageHeight="2315" type="content">
+	<PrintSpace>
+	<Coords points="1142,2137 1142,220 5,220 5,2137"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/></OrderedGroup></ReadingOrder>
+	<GraphicRegion id="region_2">
+	<Coords points="249,1101 927,1101 927,1752 249,1752"/></GraphicRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1040,2011 1040,1762 160,1762 160,2011"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1142,1088 1142,302 37,302 37,1088"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

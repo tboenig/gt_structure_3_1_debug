@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:17:05</Created>
+	<LastChange>2019-03-12T14:49:59</LastChange></Metadata>
+	<Page imageFilename="klein_geometrische_1872_0040.jpg" imageWidth="2025" imageHeight="2750" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level1" type="heading">
+	<Coords points="760,1296 1682,1296 1682,1448 760,1448"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="footnote">
+	<Coords points="623,2160 1808,2160 1808,2422 623,2422"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1276,333 1276,286 1203,286 1203,333"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1823,1243 1823,373 630,373 630,1243"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="896,2173 896,2133 636,2133 636,2173"/></SeparatorRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1826,1450 1826,1992 1780,1992 1780,1991 1687,1991 1687,1990 1594,1990 1594,1989 1501,1989 1501,1988 1408,1988 1408,1987 1315,1987 1315,1986 1222,1986 1222,1985 1128,1985 1128,1984 1035,1984 1035,1983 942,1983 942,1982 849,1982 849,1981 756,1981 756,1980 663,1980 663,1979 616,1979 616,1450"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="662,1981 662,1982 755,1982 755,1983 848,1983 848,1984 941,1984 941,1985 1034,1985 1034,1986 1127,1986 1127,1987 1221,1987 1221,1988 1314,1988 1314,1989 1407,1989 1407,1990 1500,1990 1500,1991 1593,1991 1593,1992 1686,1992 1686,1993 1779,1993 1779,1994 1826,1994 1826,2126 616,2126 616,1981"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

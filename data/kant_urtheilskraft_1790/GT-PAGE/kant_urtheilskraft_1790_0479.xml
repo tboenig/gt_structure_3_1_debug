@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:16:44</Created>
+	<LastChange>2019-03-12T14:51:28</LastChange></Metadata>
+	<Page imageFilename="kant_urtheilskraft_1790_0479.jpg" imageWidth="1743" imageHeight="2626" type="content">
+	<PrintSpace>
+	<Coords points="1283,2451 1283,193 48,193 48,2451"/></PrintSpace>
+	<TextRegion id="r0" type="header">
+	<Coords points="941,390 941,316 74,316 74,390"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="page-number">
+	<Coords points="1041,396 1041,338 958,338 958,396"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1077,412 1077,2076 907,2076 907,2075 566,2075 566,2074 225,2074 225,2073 54,2073 54,412"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="224,2075 224,2076 565,2076 565,2077 906,2077 906,2078 1077,2078 1077,2222 54,2222 54,2075"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:16:13</Created>
+	<LastChange>2019-03-12T14:55:47</LastChange></Metadata>
+	<Page imageFilename="immermann_muenchhausen02_1839_0056.jpg" imageWidth="1629" imageHeight="2189" type="content">
+	<PrintSpace>
+	<Coords points="1556,2062 1556,243 467,243 467,2062"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level3" type="heading">
+	<Coords points="876,693 1227,693 1227,747 876,747"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#list_item" type="paragraph">
+	<Coords points="657,1377 1512,1377 1512,1806 657,1806"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="page-number">
+	<Coords points="1083,389 1083,340 1018,340 1018,389"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1497,689 1497,432 613,432 613,689"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="1075,1029 1075,983 1040,983 1040,1029"/></SeparatorRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="1083,1370 1083,1329 1018,1329 1018,1370"/></SeparatorRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1467,1883 1467,1816 654,1816 654,1883"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="1502,762 1502,1034 1433,1034 1433,1033 1293,1033 1293,1032 1153,1032 1153,1031 1013,1031 1013,1030 873,1030 873,1029 733,1029 733,1028 662,1028 662,762"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="732,1030 732,1031 872,1031 872,1032 1012,1032 1012,1033 1152,1033 1152,1034 1292,1034 1292,1035 1432,1035 1432,1036 1502,1036 1502,1321 662,1321 662,1030"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

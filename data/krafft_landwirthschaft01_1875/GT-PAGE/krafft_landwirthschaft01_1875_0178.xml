@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:17:44</Created>
+	<LastChange>2019-03-12T14:47:58</LastChange></Metadata>
+	<Page imageFilename="krafft_landwirthschaft01_1875_0178.jpg" imageWidth="2300" imageHeight="3276" type="content">
+	<PrintSpace>
+	<Coords points="2299,2960 2299,316 700,316 700,2960"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_1">
+	<Coords points="846,1193 2268,1193 2268,2489 846,2489"/></TableRegion>
+	<TextRegion id="region_2" type="footnote">
+	<Coords points="879,2636 2251,2636 2251,2768 879,2768"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="980,484 980,428 852,428 852,484"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="1764,488 1764,404 1340,404 1340,488"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="2264,2616 2264,2496 872,2496 872,2616"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="1128,2652 1128,2604 860,2604 860,2652"/></SeparatorRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="2264,516 2264,899 2225,899 2225,900 2147,900 2147,901 2069,901 2069,902 1991,902 1991,903 1913,903 1913,904 1835,904 1835,905 1757,905 1757,906 1679,906 1679,907 1601,907 1601,908 1523,908 1523,909 1445,909 1445,910 1367,910 1367,911 1289,911 1289,912 1211,912 1211,913 1133,913 1133,914 1055,914 1055,915 977,915 977,916 899,916 899,917 860,917 860,516"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="2264,901 2264,1172 860,1172 860,919 900,919 900,918 978,918 978,917 1056,917 1056,916 1134,916 1134,915 1212,915 1212,914 1290,914 1290,913 1368,913 1368,912 1446,912 1446,911 1524,911 1524,910 1602,910 1602,909 1680,909 1680,908 1758,908 1758,907 1836,907 1836,906 1914,906 1914,905 1992,905 1992,904 2070,904 2070,903 2148,903 2148,902 2226,902 2226,901"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

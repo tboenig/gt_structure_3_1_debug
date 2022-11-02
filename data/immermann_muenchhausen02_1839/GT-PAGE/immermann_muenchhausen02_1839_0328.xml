@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:16:13</Created>
+	<LastChange>2019-03-12T14:54:36</LastChange></Metadata>
+	<Page imageFilename="immermann_muenchhausen02_1839_0328.jpg" imageWidth="1629" imageHeight="2188" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#poem_lg" type="paragraph">
+	<Coords points="798,819 1341,819 1341,1026 798,1026"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#poem_lg" type="paragraph">
+	<Coords points="798,1041 1407,1041 1407,1224 798,1224"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#poem_lg" type="paragraph">
+	<Coords points="798,1242 1383,1242 1383,1437 798,1437"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#poem_lg" type="paragraph">
+	<Coords points="798,1455 1329,1455 1329,1647 798,1647"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1113,402 1113,356 989,356 989,402"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1505,1867 1505,1681 645,1681 645,1867"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1489,456 1489,553 1455,553 1455,554 1388,554 1388,555 1321,555 1321,556 1254,556 1254,557 1187,557 1187,558 1120,558 1120,559 1053,559 1053,560 986,560 986,561 919,561 919,562 852,562 852,563 785,563 785,564 718,564 718,565 651,565 651,566 618,566 618,456"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1489,555 1489,813 618,813 618,568 652,568 652,567 719,567 719,566 786,566 786,565 853,565 853,564 920,564 920,563 987,563 987,562 1054,562 1054,561 1121,561 1121,560 1188,560 1188,559 1255,559 1255,558 1322,558 1322,557 1389,557 1389,556 1456,556 1456,555"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

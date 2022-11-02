@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:17:48</Created>
+	<LastChange>2019-03-12T14:42:59</LastChange></Metadata>
+	<Page imageFilename="krafft_landwirthschaft03_1876_0089.jpg" imageWidth="1966" imageHeight="2880" type="content">
+	<PrintSpace>
+	<Coords points="32,185 32,2664 1603,2664 1603,185"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_1">
+	<Coords points="46,543 1471,543 1471,2211 46,2211"/></TableRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1457,353 1457,282 1378,282 1378,353"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="975,342 975,285 528,285 528,342"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1478,535 1478,350 78,350 78,535"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="246,2253 246,2182 57,2182 57,2253"/></SeparatorRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords points="1475,2226 1475,2341 1235,2341 1235,2340 755,2340 755,2339 274,2339 274,2338 33,2338 33,2226"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords points="273,2340 273,2341 754,2341 754,2342 1234,2342 1234,2343 1475,2343 1475,2561 33,2561 33,2340"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:16:36</Created>
+	<LastChange>2019-03-12T14:52:12</LastChange></Metadata>
+	<Page imageFilename="justi_velazquez01_1888_0124.jpg" imageWidth="2334" imageHeight="3128" type="content">
+	<PrintSpace>
+	<Coords points="2333,3034 2333,100 473,100 473,3034"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r4" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="region_2" index="2"/></OrderedGroup></ReadingOrder>
+	<GraphicRegion id="region_2">
+	<Coords points="1113,2500 1853,2500 1853,2746 1113,2746"/></GraphicRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="896,419 896,380 800,380 800,419"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="1553,430 1553,369 1388,369 1388,430"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="2150,1076 2150,453 800,453 800,1076"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords points="2205,1096 2205,1641 2026,1641 2026,1642 1669,1642 1669,1643 1311,1643 1311,1644 954,1644 954,1645 776,1645 776,1096"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords points="2205,1643 2205,2465 776,2465 776,1647 955,1647 955,1646 1312,1646 1312,1645 1670,1645 1670,1644 2027,1644 2027,1643"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

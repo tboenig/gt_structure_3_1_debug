@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:17:44</Created>
+	<LastChange>2019-03-05T11:51:16</LastChange></Metadata>
+	<Page imageFilename="krafft_landwirthschaft01_1875_0174.jpg" imageWidth="2300" imageHeight="3276" type="content">
+	<PrintSpace>
+	<Coords points="2296,2944 2296,340 700,340 700,2944"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_1">
+	<Coords points="806,486 2251,486 2251,2014 806,2014"/></TableRegion>
+	<TableRegion id="region_2">
+	<Coords points="846,2163 2241,2163 2241,2348 846,2348"/></TableRegion>
+	<TextRegion id="region_3" type="footnote">
+	<Coords points="889,2586 1837,2586 1837,2694 889,2694"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="header">
+	<Coords points="1756,468 1756,404 1312,404 1312,468"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="page-number">
+	<Coords points="956,468 956,404 824,404 824,468"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="2232,2156 2232,2008 832,2008 832,2156"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="2232,2544 2232,2360 868,2360 868,2544"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="1108,2596 1108,2552 900,2552 900,2596"/></SeparatorRegion></Page></PcGts>

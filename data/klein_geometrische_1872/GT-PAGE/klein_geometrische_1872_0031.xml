@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:17:05</Created>
+	<LastChange>2019-03-12T14:50:28</LastChange></Metadata>
+	<Page imageFilename="klein_geometrische_1872_0031.jpg" imageWidth="2025" imageHeight="2749" type="content">
+	<PrintSpace>
+	<Coords points="1536,2550 1536,223 60,223 60,2550"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level1" type="heading">
+	<Coords points="280,1476 1319,1476 1319,1622 280,1622"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="footnote">
+	<Coords points="243,2283 1405,2283 1405,2419 243,2419"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="826,316 826,273 750,273 750,316"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1423,2233 1423,1650 236,1650 236,2233"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="480,2273 480,2260 240,2260 240,2273"/></SeparatorRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1413,356 1413,615 1393,615 1393,616 1353,616 1353,617 1313,617 1313,618 1273,618 1273,619 1233,619 1233,620 1193,620 1193,621 1153,621 1153,622 1113,622 1113,623 1073,623 1073,624 1033,624 1033,625 994,625 994,626 954,626 954,627 914,627 914,628 874,628 874,629 834,629 834,630 794,630 794,631 754,631 754,632 714,632 714,633 674,633 674,634 634,634 634,635 595,635 595,636 555,636 555,637 515,637 515,638 475,638 475,639 435,639 435,640 395,640 395,641 355,641 355,642 315,642 315,643 275,643 275,644 235,644 235,645 216,645 216,356"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="1413,617 1413,1109 1366,1109 1366,1110 1274,1110 1274,1111 1182,1111 1182,1112 1090,1112 1090,1113 998,1113 998,1114 906,1114 906,1115 814,1115 814,1116 722,1116 722,1117 630,1117 630,1118 538,1118 538,1119 446,1119 446,1120 354,1120 354,1121 262,1121 262,1122 216,1122 216,647 236,647 236,646 276,646 276,645 316,645 316,644 356,644 356,643 396,643 396,642 436,642 436,641 476,641 476,640 516,640 516,639 556,639 556,638 596,638 596,637 635,637 635,636 675,636 675,635 715,635 715,634 755,634 755,633 795,633 795,632 835,632 835,631 875,631 875,630 915,630 915,629 955,629 955,628 995,628 995,627 1034,627 1034,626 1074,626 1074,625 1114,625 1114,624 1154,624 1154,623 1194,623 1194,622 1234,622 1234,621 1274,621 1274,620 1314,620 1314,619 1354,619 1354,618 1394,618 1394,617"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="1413,1111 1413,1275 1353,1275 1353,1276 1233,1276 1233,1277 1113,1277 1113,1278 994,1278 994,1279 874,1279 874,1280 754,1280 754,1281 634,1281 634,1282 515,1282 515,1283 395,1283 395,1284 275,1284 275,1285 216,1285 216,1124 263,1124 263,1123 355,1123 355,1122 447,1122 447,1121 539,1121 539,1120 631,1120 631,1119 723,1119 723,1118 815,1118 815,1117 907,1117 907,1116 999,1116 999,1115 1091,1115 1091,1114 1183,1114 1183,1113 1275,1113 1275,1112 1367,1112 1367,1111"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="1413,1277 1413,1453 216,1453 216,1287 276,1287 276,1286 396,1286 396,1285 516,1285 516,1284 635,1284 635,1283 755,1283 755,1282 875,1282 875,1281 995,1281 995,1280 1114,1280 1114,1279 1234,1279 1234,1278 1354,1278 1354,1277"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

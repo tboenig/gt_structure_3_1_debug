@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:16:13</Created>
+	<LastChange>2019-03-12T14:55:31</LastChange></Metadata>
+	<Page imageFilename="immermann_muenchhausen02_1839_0141.jpg" imageWidth="1629" imageHeight="2188" type="content">
+	<PrintSpace>
+	<Coords points="67,200 67,2032 1189,2032 1189,200"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#poem" type="paragraph">
+	<Coords points="129,408 1014,408 1014,795 129,795"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#poem" type="paragraph">
+	<Coords points="147,1740 861,1740 861,1839 147,1839"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="605,381 605,324 518,324 518,381"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1027,816 1027,1042 805,1042 805,1043 361,1043 361,1044 140,1044 140,816"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="1027,1044 1027,1339 938,1339 938,1340 760,1340 760,1341 583,1341 583,1342 406,1342 406,1343 228,1343 228,1344 140,1344 140,1046 362,1046 362,1045 806,1045 806,1044"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="1027,1341 1027,1727 140,1727 140,1346 229,1346 229,1345 407,1345 407,1344 584,1344 584,1343 761,1343 761,1342 939,1342 939,1341"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

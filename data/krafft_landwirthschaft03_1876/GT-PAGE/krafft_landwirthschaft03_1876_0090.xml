@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:17:48</Created>
+	<LastChange>2019-03-12T14:42:45</LastChange></Metadata>
+	<Page imageFilename="krafft_landwirthschaft03_1876_0090.jpg" imageWidth="1966" imageHeight="2880" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_1">
+	<Coords points="509,329 1927,329 1927,1597 509,1597"/></TableRegion>
+	<TextRegion id="region_2" custom="#heading_level4" type="heading">
+	<Coords points="909,1609 1504,1609 1504,1709 909,1709"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#heading_level5" type="heading">
+	<Coords points="976,1709 1421,1709 1421,1796 976,1796"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="617,300 617,242 514,242 514,300"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="1442,307 1442,260 1021,260 1021,307"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1892,1803 1892,2227 1792,2227 1792,2226 1592,2226 1592,2225 1391,2225 1391,2224 1191,2224 1191,2223 991,2223 991,2222 790,2222 790,2221 590,2221 590,2220 489,2220 489,1803"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="589,2222 589,2223 789,2223 789,2224 990,2224 990,2225 1190,2225 1190,2226 1390,2226 1390,2227 1591,2227 1591,2228 1791,2228 1791,2229 1892,2229 1892,2535 489,2535 489,2222"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

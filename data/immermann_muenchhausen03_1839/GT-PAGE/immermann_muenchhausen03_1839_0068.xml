@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:16:14</Created>
+	<LastChange>2019-03-12T14:54:24</LastChange></Metadata>
+	<Page imageFilename="immermann_muenchhausen03_1839_0068.jpg" imageWidth="1629" imageHeight="2189" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#poem_lg" type="paragraph">
+	<Coords points="747,738 1443,738 1443,1104 747,1104"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#poem_lg" type="paragraph">
+	<Coords points="747,1122 1470,1122 1470,1491 747,1491"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1083,329 1083,281 994,281 994,329"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1494,1808 1494,1505 608,1505 608,1808"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1467,383 1467,493 1427,493 1427,494 1348,494 1348,495 1269,495 1269,496 1191,496 1191,497 1112,497 1112,498 1033,498 1033,499 954,499 954,500 875,500 875,501 797,501 797,502 718,502 718,503 639,503 639,504 600,504 600,383"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1467,495 1467,735 600,735 600,506 640,506 640,505 719,505 719,504 798,504 798,503 876,503 876,502 955,502 955,501 1034,501 1034,500 1113,500 1113,499 1192,499 1192,498 1270,498 1270,497 1349,497 1349,496 1428,496 1428,495"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

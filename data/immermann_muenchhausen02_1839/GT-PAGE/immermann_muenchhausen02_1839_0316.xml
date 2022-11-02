@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:16:13</Created>
+	<LastChange>2019-02-27T16:16:01</LastChange></Metadata>
+	<Page imageFilename="immermann_muenchhausen02_1839_0316.jpg" imageWidth="1629" imageHeight="2188" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/>
+	<RegionRefIndexed regionRef="region_5" index="4"/>
+	<RegionRefIndexed regionRef="region_6" index="5"/>
+	<RegionRefIndexed regionRef="region_7" index="6"/>
+	<RegionRefIndexed regionRef="region_8" index="7"/>
+	<RegionRefIndexed regionRef="region_9" index="8"/>
+	<RegionRefIndexed regionRef="region_10" index="9"/>
+	<RegionRefIndexed regionRef="region_11" index="10"/>
+	<RegionRefIndexed regionRef="region_12" index="11"/>
+	<RegionRefIndexed regionRef="region_13" index="12"/>
+	<RegionRefIndexed regionRef="region_14" index="13"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#speaker" type="other">
+	<Coords points="864,429 1311,429 1311,486 864,486"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="696,489 1005,489 1005,546 696,546"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#speaker" type="other">
+	<Coords points="984,549 1194,549 1194,606 984,606"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="paragraph">
+	<Coords points="702,609 1080,609 1080,663 702,663"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" custom="#speaker" type="other">
+	<Coords points="867,1257 1326,1257 1326,1311 867,1311"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_6" type="paragraph">
+	<Coords points="699,1314 1323,1314 1323,1371 699,1371"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_7" custom="#speaker" type="other">
+	<Coords points="993,1374 1185,1374 1185,1434 993,1434"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_8" type="paragraph">
+	<Coords points="708,1437 1167,1437 1167,1488 708,1488"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_9" custom="#speaker" type="other">
+	<Coords points="942,1491 1233,1491 1233,1551 942,1551"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_10" type="paragraph">
+	<Coords points="693,1554 1197,1554 1197,1617 693,1617"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_11" custom="#speaker" type="other">
+	<Coords points="990,1620 1182,1620 1182,1668 990,1668"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_12" type="paragraph">
+	<Coords points="693,1671 1257,1671 1257,1734 693,1734"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_13" custom="#speaker" type="other">
+	<Coords points="969,1737 1230,1737 1230,1791 969,1791"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_14" type="paragraph">
+	<Coords points="717,1794 993,1794 993,1854 717,1854"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1135,386 1135,340 1040,340 1040,386"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1537,1245 1537,672 662,672 662,1245"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>
