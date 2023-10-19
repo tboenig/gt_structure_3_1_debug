@@ -368,294 +368,294 @@
    </mets:amdSec>
    <mets:fileSec>
       <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0001"
                     GROUPID="OCR-D-IMG_0001">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0005.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0002"
                     GROUPID="OCR-D-IMG_0002">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0006.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0003"
                     GROUPID="OCR-D-IMG_0003">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0007.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0004"
                     GROUPID="OCR-D-IMG_0004">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0008.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0005"
                     GROUPID="OCR-D-IMG_0005">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0009.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0006"
                     GROUPID="OCR-D-IMG_0006">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0010.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0007"
                     GROUPID="OCR-D-IMG_0007">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0011.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0008"
                     GROUPID="OCR-D-IMG_0008">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0012.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0009"
                     GROUPID="OCR-D-IMG_0009">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0013.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0010"
                     GROUPID="OCR-D-IMG_0010">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0039.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0011"
                     GROUPID="OCR-D-IMG_0011">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0040.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0012"
                     GROUPID="OCR-D-IMG_0012">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0041.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0013"
                     GROUPID="OCR-D-IMG_0013">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0046.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0014"
                     GROUPID="OCR-D-IMG_0014">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0049.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0015"
                     GROUPID="OCR-D-IMG_0015">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0053.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0016"
                     GROUPID="OCR-D-IMG_0016">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0054.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0017"
                     GROUPID="OCR-D-IMG_0017">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0065.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0018"
                     GROUPID="OCR-D-IMG_0018">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0066.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0019"
                     GROUPID="OCR-D-IMG_0019">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0076.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0020"
                     GROUPID="OCR-D-IMG_0020">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0101.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0021"
                     GROUPID="OCR-D-IMG_0021">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0117.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0022"
                     GROUPID="OCR-D-IMG_0022">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0118.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0023"
                     GROUPID="OCR-D-IMG_0023">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0120.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0024"
                     GROUPID="OCR-D-IMG_0024">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0130.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0025"
                     GROUPID="OCR-D-IMG_0025">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0132.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0026"
                     GROUPID="OCR-D-IMG_0026">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0133.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0027"
                     GROUPID="OCR-D-IMG_0027">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0134.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0028"
                     GROUPID="OCR-D-IMG_0028">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0135.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0029"
                     GROUPID="OCR-D-IMG_0029">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0136.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0001"
                     GROUPID="OCR-D-IMG_0001">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0005.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0002"
                     GROUPID="OCR-D-IMG_0002">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0006.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0003"
                     GROUPID="OCR-D-IMG_0003">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0007.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0004"
                     GROUPID="OCR-D-IMG_0004">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0008.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0005"
                     GROUPID="OCR-D-IMG_0005">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0009.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0006"
                     GROUPID="OCR-D-IMG_0006">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0010.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0007"
                     GROUPID="OCR-D-IMG_0007">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0011.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0008"
                     GROUPID="OCR-D-IMG_0008">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0012.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0009"
                     GROUPID="OCR-D-IMG_0009">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0013.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0010"
                     GROUPID="OCR-D-IMG_0010">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0039.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0011"
                     GROUPID="OCR-D-IMG_0011">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0040.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0012"
                     GROUPID="OCR-D-IMG_0012">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0041.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0013"
                     GROUPID="OCR-D-IMG_0013">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0046.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0014"
                     GROUPID="OCR-D-IMG_0014">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0049.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0015"
                     GROUPID="OCR-D-IMG_0015">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0053.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0016"
                     GROUPID="OCR-D-IMG_0016">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0054.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0017"
                     GROUPID="OCR-D-IMG_0017">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0065.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0018"
                     GROUPID="OCR-D-IMG_0018">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0066.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0019"
                     GROUPID="OCR-D-IMG_0019">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0076.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0020"
                     GROUPID="OCR-D-IMG_0020">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0101.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0021"
                     GROUPID="OCR-D-IMG_0021">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0117.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0022"
                     GROUPID="OCR-D-IMG_0022">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0118.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0023"
                     GROUPID="OCR-D-IMG_0023">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0120.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0024"
                     GROUPID="OCR-D-IMG_0024">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0130.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0025"
                     GROUPID="OCR-D-IMG_0025">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0132.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0026"
                     GROUPID="OCR-D-IMG_0026">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0133.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0027"
                     GROUPID="OCR-D-IMG_0027">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0134.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0028"
                     GROUPID="OCR-D-IMG_0028">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0135.xml"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0029"
                     GROUPID="OCR-D-IMG_0029">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hunold_gedichte_1702_0136.xml"/>
