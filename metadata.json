@@ -25,8 +25,12 @@
   ],
   "production-software": "Aletheia",
   "script": [
-    "Latn",
-    "Goth"
+    {
+      "iso": "Latn"
+    },
+    {
+      "iso": "Goth"
+    }
   ],
   "script-type": "print",
   "time": {
@@ -70,8 +74,6 @@
     "data-attributes/document-related/structural/footnotes",
     "data-attributes/document-related/structural/footnote-continued",
     "data-attributes/document-related/structural/endnote",
-    "data-attributes/document-related/structural/running-titles",
-    "data-attributes/document-related/visual/text/font/typeface/blackletter",
-    "data-attributes/document-related/visual/text/font/typeface/antiqua"
+    "data-attributes/document-related/structural/running-titles"
   ]
 }

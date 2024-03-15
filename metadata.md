@@ -130,16 +130,6 @@ An image database</p>
          <strong>Description: </strong>Titles repeated each page</p>
    </details>
    <details>
-      <summary>data-attributes/document-related/visual/text/font/typeface/antiqua</summary>
-      <p>
-         <strong>Description: </strong>Antiqua font (more modern)</p>
-   </details>
-   <details>
-      <summary>data-attributes/document-related/visual/text/font/typeface/blackletter</summary>
-      <p>
-         <strong>Description: </strong>Blackletter, gothic, Fraktur</p>
-   </details>
-   <details>
       <summary>granularity/logical/document-related/paragraph</summary>
       <p>
          <strong>Description: </strong>
@@ -173,7 +163,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_3_1_debug/releases/tag/v1.1.12">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 10_v1.1.12</a>
+         <a href="https://github.com/tboenig/gt_structure_3_1_debug/releases/tag/v1.1.13">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 11_v1.1.13</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt_structure_3_1_debug/releases">Version archive</a>
