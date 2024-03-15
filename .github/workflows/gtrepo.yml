@@ -222,7 +222,7 @@ jobs:
           - name: generate METADATA_htr_united.yml
             run: |
               java -jar saxon-he-12.3.jar -xsl:scripts/gt-metadata_htr_united.xsl \
-              -s:scripts/gt-metadata_htr_united.xsl
+              -s:scripts/gt-metadata_htr_united.xsl -o:METADATA_htr_united.yml
             shell: bash  
             
           - name: generate METS Volume File
