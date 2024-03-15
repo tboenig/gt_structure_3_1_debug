@@ -36,7 +36,7 @@ license:
   url: https://creativecommons.org/licenses/zero/1.0/
 format: Page-XML
 volume:
-- count: 640976
+- count: 640976-
   metric: characters
   - count: 1649
   metric: files
