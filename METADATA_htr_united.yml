@@ -1,8 +1,7 @@
 schema: https://htr-united.github.io/schema/2023-06-27/schema.json
 title: gt_structure_3_1
-url: https://github.com/OCR-D/gt_structure_3_1 https://creativecommons.org/licenses/zero/1.0/
+    url: https://github.com/OCR-D/gt_structure_3_1 https://creativecommons.org/licenses/zero/1.0/
 authors:
-    
       - name: Matthias 
         surname: Boenig
         orcid: 0000-0003-4615-4753
@@ -13,8 +12,6 @@ authors:
           - quality-control
           - digitization
           - support
-
-
 institutions: []
 description: >-
   The repo gt_structure_3_1 is part of the OCR-D Ground Truth Structure corpus. Only the structure of the printed page is annotated. The corpus was created as a result of the DFG project OCR-D. Corrections and extensions can be reported, please use the Issues.
@@ -22,7 +19,7 @@ project-name: OCR-D
 project-website: https://ocr-d.de/
 language:
   - deu
-production-software: 
+production-software: Aletheia
 automatically-aligned: false
 script:
   - iso: Latn
