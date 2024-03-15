@@ -21,8 +21,8 @@ language:
   - deu
 production-software: Aletheia
 script:
-  - Latn
-  - Goth
+  - iso: Latn
+  - iso: Goth
 script-type: print
 time:
   notBefore: '1600'
