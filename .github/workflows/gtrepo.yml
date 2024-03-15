@@ -54,7 +54,7 @@ jobs:
             with:
              cmd: |
                 yq -o=json METADATA.yml > METADATA.json
-                yq -o=json METADATA_htr_united.yml > METADATA_htr_united.json
+                
 
 
           
@@ -159,7 +159,7 @@ jobs:
             with:
               cmd: |
                 yq -o=json METADATA.yml > METADATA.json
-                yq -o=json METADATA_htr_united.yml > METADATA_htr_united.json
+                
                   
           - name: transform METADATA and make GT-Overview
             run: |
