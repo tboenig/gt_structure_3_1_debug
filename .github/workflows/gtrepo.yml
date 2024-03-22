@@ -258,7 +258,8 @@ jobs:
             uses: mikefarah/yq@master
             with:
               cmd: |
-                yq -I4 rawCITATION.cff > CITATION.cff
+                yq -V
+                yq rawCITATION.cff > CITATION.cff
                 rm rawCITATION.cff
                 less CITATION.cff
             
