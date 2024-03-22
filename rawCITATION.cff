@@ -4,7 +4,7 @@ message: If you use this dataset, please cite it using the metadata from this fi
 type: dataset
 authors:
 
-    - given-names: Matthias
+  - given-names: Matthias
     family-names: Boenig
     orcid: 'https://0000-0003-4615-4753'
 repository-code: 'https://github.com/tboenig/gt_structure_3_1_debug'
@@ -18,6 +18,6 @@ keywords:
   - ground-truth
   - data_structure
 license: CC0-1.0
-commit: v1.2.43
-version: 41_v1.2.43
+commit: v1.2.44
+version: 42_v1.2.44
 date-released: '2024-03-22'
