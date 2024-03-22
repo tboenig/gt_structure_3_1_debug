@@ -253,13 +253,7 @@ jobs:
               -s:scripts/gt-overview_metadata.xsl -o:rawCITATION.cff
             shell: bash
 
-          - name: formating CITATION.cff
-            id: lookupSdkVersion2
-            uses: mikefarah/yq@master
-            with:
-              cmd: |
-                yq -I4 rawCITATION.cff > CITATION.cff
-                
+          
             
         
           - name: Index-link
