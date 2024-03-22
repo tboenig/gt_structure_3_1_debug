@@ -163,7 +163,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_3_1_debug/releases/tag/v1.2.31">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 29_v1.2.31</a>
+         <a href="https://github.com/tboenig/gt_structure_3_1_debug/releases/tag/v1.2.33">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 31_v1.2.33</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt_structure_3_1_debug/releases">Version archive</a>
