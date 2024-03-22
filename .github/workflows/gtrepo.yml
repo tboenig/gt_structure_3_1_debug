@@ -260,7 +260,7 @@ jobs:
               cmd: |
                 yq -V
                 yq rawCITATION.cff > CITATION.cff
-                rm rawCITATION.cff
+                
                 less CITATION.cff
             
         
@@ -368,6 +368,7 @@ jobs:
               git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
               git config --local user.name "github-actions[bot]"
               git add CITATION.cff
+              git add rawCITATION.cff
               git commit -m "[Automatic] Update CITATION.cff files" || echo "Nothing to update"
               git push origin HEAD:main    
       
