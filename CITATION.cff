@@ -5,7 +5,7 @@ type: dataset
 authors:
     - given-names: Matthias
       family-names: Boenig
-      orcid: 0000-0003-4615-4753
+      orcid: 'https://0000-0003-4615-4753'
 repository-code: 'https://github.com/tboenig/gt_structure_3_1_debug'
 url: 'https://github.com/tboenig/gt_structure_3_1_debug'
 abstract: |-
@@ -16,7 +16,7 @@ keywords:
     - segmentation
     - ground-truth
     - data_structure
-license: CC0 1.0
-commit: v1.2.28
-version: 26_v1.2.28
-date-released: '2024-3-22'
+license: CC0-1.0
+commit: v1.2.29
+version: 27_v1.2.29
+date-released: 'ZZZZZYZYYZ-O-Y'
